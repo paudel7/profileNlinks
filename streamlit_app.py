@@ -22,6 +22,6 @@ st_button('linkedin', 'https://www.linkedin.com/in/paudelkiran/', 'Follow me on 
 
 st_button('strikingly', 'https://paudel7.mystrikingly.com/', 'Follow me on Strikingly', icon_size)
 
-#st_button('strikingly', 'https://paudel7.mystrikingly.com/', 'Visit my profile', icon_size)
+#--Not working--st_button('strikingly', 'https://paudel7.mystrikingly.com/', 'Visit my profile', icon_size)
 
 #st_button('cup', 'https://www.buymeacoffee.com/toupdate/', 'Buy me a Coffee', icon_size)
