@@ -20,6 +20,8 @@ st_button('medium', 'https://kiran1-paudel2.medium.com/', 'Read my blogs', icon_
 
 st_button('linkedin', 'https://www.linkedin.com/in/paudelkiran/', 'Follow me on LinkedIn', icon_size)
 
-st_button('strikingly', 'https://paudel7.mystrikingly.com/', 'Visit my profile', icon_size)
+st_button('strikingly', 'https://paudel7.mystrikingly.com/', 'Follow me on Strikingly', icon_size)
+
+#st_button('strikingly', 'https://paudel7.mystrikingly.com/', 'Visit my profile', icon_size)
 
 #st_button('cup', 'https://www.buymeacoffee.com/toupdate/', 'Buy me a Coffee', icon_size)
