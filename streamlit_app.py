@@ -16,7 +16,7 @@ st.info('BI/BA Analyst, Knowledge Builder with an interest in Data Science & Ana
 icon_size = 20
 
 
-st_button('medium', 'https://https://kiran1-paudel2.medium.com/', 'Read my Blogs', icon_size)
+st_button('medium', 'https://kiran1-paudel2.medium.com/', 'Read my blogs', icon_size)
 
 st_button('linkedin', 'https://www.linkedin.com/in/paudelkiran/', 'Follow me on LinkedIn', icon_size)
 
